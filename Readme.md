@@ -7,4 +7,4 @@ The image archive  cadod.tar.gz (https://www.dropbox.com/s/57dz6sbvdz5xjnn/cadod
 
 Image bounding boxes are stored in the csv file cadod.csv (https://www.dropbox.com/s/sa01xwgdemy2hy7/cadod.csv?dl=0). The following describes whats contained inside the csv.
 
-Create a seprate branch for each participant and merge it in develop by raising PR.
+Create a seprate branch for each participant(Example. work_sanket) from develop and merge it in develop by raising PR.
